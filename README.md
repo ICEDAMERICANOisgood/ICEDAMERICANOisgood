@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ICEDAMERICANOisgood
+- 👀 I’m interested in bioinformatics!
+- 🌱 I’m currently learning R and python tools for analysing single cell RNA sequencing.
+- ⚡ Fun fact: Trying to use GITHUB as my studying space!
